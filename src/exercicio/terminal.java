@@ -1,5 +1,5 @@
 package exercicio;
-
+//Bruno MArtins Rauber
 import java.util.Scanner;
 
 public class terminal {
