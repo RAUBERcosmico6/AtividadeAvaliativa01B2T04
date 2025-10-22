@@ -7,6 +7,8 @@ public class terminal {
         Scanner scanner = new Scanner(System.in);
 
        
+        
+        
         exercicio1(scanner);
         if (!continuar(scanner)) return;
         exercicio2(scanner);
