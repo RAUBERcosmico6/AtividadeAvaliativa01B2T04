@@ -6,8 +6,7 @@ public class terminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-       
-        
+     
         
         exercicio1(scanner);
         if (!continuar(scanner)) return;
